@@ -27,19 +27,8 @@ Abril 5 del 2017
 ****--------------------------*****
 1. Descombrima el archivo .zip localizado en sicua.
 2. ruta del repositorio en gitHub: https://github.com/krmarzola/TareaNo5.git
-4. ruta del depliegue en heroku: https://tareano5.herokuapp.com/
-
-****----------------------------------*****
-****Instrucciones De Ejecución JavaDoc*****
-****----------------------------------*****
-1. Descombrima el archivo .zip localizado en sicua.
-2. Abra la linea de comandos y coloquese en el directorio donde va a descargar el repositorio.
-3. Desde linea de comandos git clone https://github.com/krmarzola/TareaNo5.git sobre el directorio que ha seleccionado.
-4. Ejecute en linea de comandos sobre el directorio creado donde se encuentra el archivo poom.xml: mvn clean.
-4. Ejecute en linea de comandos mvn compile.
-5. Ejecute en linea de comandos mvn package.
-5. Ejecute en linea de comandos mvn mvn javadoc:javadoc
-6. Vaya dentro de la carpeta target\site\apidocs y haga doble click a la pagina index.html
+3. ruta del depliegue en heroku: https://tareano5.herokuapp.com/
+4. El javadoc esta en la ruta src/site/apidocs/index.html
 
 
 
